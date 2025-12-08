@@ -1,38 +1,96 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Muhammad+Shahsawar;Frontend+Developer;Computer+Software+Engineer)]()
+<div align="center">
+  
+  # 👋 Hi, I'm Muhammad Shahsawar
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer+%7C+Product+Engineer;Vue.js+Enthusiast+%7C+Modern+Web+Expert;Building+Beautiful+User+Experiences;Open+to+New+Opportunities&font=Fira%20Code&center=true&width=600&height=50&color=38bdf8&vCenter=true&pause=1000&size=22)](https://github.com/shahsawar92)
 
+</div>
 
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+---
 
-:computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙋𝙧𝙤𝙙𝙪𝙘𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
+## 🚀 About Me
 
-🖖 𝗩𝘂𝗲.𝗷𝘀 𝗮𝗳𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗼 | 🔐**Nodejs and PHP** 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 | ☕️ **Tea** 𝗹𝗼𝘃𝗲𝗿 | 🌵 **Book Reader**
+I'm a **self-taught Frontend Product Engineer** passionate about crafting elegant, user-centric web applications. With a strong foundation in modern JavaScript frameworks and a keen eye for design, I transform ideas into polished digital experiences.
 
-:writing_hand: 𝙄 𝙡𝙤𝙫𝙚 𝙨𝙝𝙖𝙧𝙞𝙣𝙜 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙚 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 𝙩𝙤𝙤𝙡𝙨, 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙘𝙝𝙚𝙘𝙠 [Instagram](https://www.instagram.com/best_programming_tips/) 𝙛𝙤𝙧 𝙢𝙤𝙧𝙚 𝙙𝙚𝙩𝙖𝙞𝙡𝙨.     
+- 💼 Currently specializing in **Vue.js** ecosystem
+- 🌱 Expanding my expertise in **Node.js** and **PHP**
+- 🎯 Focus on creating performant, accessible, and maintainable code
+- 📚 Avid reader and continuous learner
+- ☕ Fueled by tea and curiosity
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+### 📱 Connect With Me
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+[![Instagram](https://img.shields.io/badge/Programming_Tips-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/best_programming_tips/)
+[![GitHub](https://img.shields.io/badge/Follow-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahsawar92)
 
-![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-![Windicss](https://img.shields.io/badge/-WindiCss-%23000000?style=flat-square&logo=tailwind-css&&logoColor=48B0F1)
+---
 
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-<!-- ## 𝗦𝘁𝗮𝘁𝘀
+## 🛠️ Tech Stack
 
-![Shahsawar's github stats](https://github-readme-stats.vercel.app/api?username=shahsawar92&show_icons=true&theme=dracula)
- -->
+### Core Technologies
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Styling Solutions
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Less](https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white)
+![WindiCSS](https://img.shields.io/badge/Windi_CSS-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white)
+![Stylus](https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white)
+
+### Build Tools & DevOps
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Rollup](https://img.shields.io/badge/Rollup-%23EC4A3F.svg?style=for-the-badge&logo=rollupdotjs&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Shahsawar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahsawar92&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahsawar92&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahsawar92&theme=tokyonight&hide_border=true&background=0D1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8)
+
+</div>
+
+---
+
+## 💡 What I Bring to the Table
+
+- ✨ **Modern UI/UX**: Creating intuitive, responsive interfaces with attention to detail
+- 🎨 **Design Systems**: Building scalable, maintainable component libraries
+- ⚡ **Performance**: Optimizing load times and runtime efficiency
+- 🔧 **Best Practices**: Writing clean, testable, and well-documented code
+- 🤝 **Collaboration**: Strong communication skills and team player mindset
+
+---
+
+<div align="center">
+  
+  ### 💬 Let's Build Something Amazing Together!
+  
+  *I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.*
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=shahsawar92&color=38bdf8&style=for-the-badge)
+  
+</div>
