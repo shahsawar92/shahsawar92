@@ -48,7 +48,7 @@ I'm a **self-taught Frontend Product Engineer** passionate about crafting elegan
 ### Build Tools & DevOps
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Rollup](https://img.shields.io/badge/Rollup-%23EC4A3F.svg?style=for-the-badge&logo=rollup.js&logoColor=white)
+![Rollup](https://img.shields.io/badge/Rollup-%23EC4A3F.svg?style=for-the-badge&logo=rollupdotjs&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 ### Tools & Platforms
