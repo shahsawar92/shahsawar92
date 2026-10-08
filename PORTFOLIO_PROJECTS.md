@@ -1,269 +1,326 @@
 # Portfolio Project Analysis
 
-> Curated from the publicly visible repositories owned by `shahsawar92` as of October 8, 2026. This document intentionally excludes obvious learning exercises, starter templates, clones, assignments, and placeholder repositories.
+> Updated October 8, 2026 using accessible public repositories, private repositories, authored commits, pull requests, and collaboration history associated with `shahsawar92`.
 
 ## Executive Summary
 
-My public work shows a progression from React fundamentals to production-oriented full-stack application development. I have built responsive interfaces, dashboard-style products, API-driven applications, authentication flows, data-management systems, interactive games, and modern Next.js applications.
+My work demonstrates a progression from React fundamentals to full-stack product engineering across SaaS platforms, ERP systems, commerce workflows, media tooling, dashboards, API services, and mobile/web payment products.
 
-My strongest portfolio story is:
+The strongest story for my portfolio is that I do not only build interfaces. I work across product surfaces, frontend architecture, backend services, business workflows, authentication, data processing, deployment, bug fixing, and team collaboration.
 
-- **Frontend engineering:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap, responsive UI, routing, forms, dashboards, charts, and reusable components.
-- **Backend engineering:** Node.js, Express, MongoDB/Mongoose, JWT authentication, password hashing, validation, CORS, and REST-style APIs.
-- **Application architecture:** Separating frontend and backend applications, integrating APIs, managing application state, structuring domain components, and deploying web applications.
-- **Product thinking:** Building tools around real use cases such as financial tracking, administration, news discovery, environmental awareness, quizzes, and business management.
+## Featured Projects
 
-## Recommended Featured Projects
+### 1. VersaClip — Video Processing and Creator Workflow Platform
 
-### 1. Balansize — Finance / Operations Management Platform
-
-- **Repository:** [shahsawar92/balansize](https://github.com/shahsawar92/balansize)
-- **Live project:** [balansize.vercel.app](https://balansize.vercel.app)
-- **Technology:** Next.js 14, React 18, TypeScript, Redux Toolkit, React Hook Form, Zod, Chart.js, Tailwind CSS, date-fns, React Dropzone, TinyMCE, Jest, and testing utilities.
-- **Portfolio priority:** **Featured**
+- **Repositories:** [VersaClip](https://github.com/shahsawar92/VersaClip) and [versaclip-frontend](https://github.com/shahsawar92/versaclip-frontend)
+- **Visibility:** Private
+- **Current status:** Active development as of October 8, 2026
+- **Frontend:** React, Vite, routing, PWA support, Workbox caching, responsive UI
+- **Capabilities visible from authored work:** User scouting, batch video combination, single-video combination/editing, frontend API setup, and video-processing workflows.
 
 #### What I built
 
-I built a structured, TypeScript-based Next.js application focused on managing and presenting operational or financial information. I organized the codebase into application routes, reusable components, hooks, data/configuration modules, Redux state, shared libraries, styles, and domain types.
+I worked on a video workflow product with separate frontend and backend repositories. The product includes workflows for discovering or selecting users, combining videos in batches, combining individual videos, and editing video content.
 
 #### What I worked on
 
-- Designed a scalable Next.js application structure instead of keeping the project as a single-page prototype.
-- Used TypeScript to define clearer contracts between UI components, state, forms, and domain data.
-- Implemented centralized state management with Redux Toolkit.
-- Built validated forms with React Hook Form and Zod.
-- Added charting and date utilities for data visualization and time-based reporting.
-- Added user-facing feedback and interaction patterns using toast and alert libraries.
-- Included testing, linting, formatting, commit conventions, and pre-commit tooling in the development workflow.
-- Added support for rich text and file uploads through TinyMCE and React Dropzone.
+- Scaffolded the frontend with React, Vite, routing, and dedicated video workflow pages.
+- Built `UserScout`, `BatchCombine`, and `SingleCombine` pages/components.
+- Added API setup for frontend-to-backend communication.
+- Implemented a single-video combine and editing workflow.
+- Added PWA support with `vite-plugin-pwa` and Workbox caching.
+- Configured application manifest assets and Apple touch icons.
+- Improved routing and application-level structure.
+- Added global styling and updated logo asset references.
+- Maintained the backend alongside frontend feature work.
 
 #### Portfolio wording
 
-> I built Balansize, a TypeScript-powered Next.js management platform designed to organize, visualize, and interact with business or financial data. I developed the application architecture, centralized state management, validated forms, chart-based reporting, reusable UI components, and developer-quality tooling needed to move beyond a basic prototype.
+> I worked on VersaClip, a video-processing and creator workflow platform with separate frontend and backend applications. I developed React/Vite interfaces for user discovery, batch video combination, and single-video editing workflows, connected the frontend to backend APIs, and added PWA capabilities with Workbox caching for a more app-like experience.
+
+**Why showcase it:** This is currently one of the strongest examples of recent product work because it demonstrates media workflows, frontend architecture, API integration, PWA engineering, and active feature delivery.
 
 ---
 
-### 2. Management Application — Full-Stack Business System
+### 2. Reddit Monitoring and Matching Backend
 
-- **Repositories:** [management-app-frontend](https://github.com/shahsawar92/management-app-frontend) and [management-app-backend](https://github.com/shahsawar92/management-app-backend)
-- **Technology:** React 18, React Router, Axios, Formik, Yup, Bootstrap, Node.js, Express, MongoDB/Mongoose, JWT, bcrypt, Joi, dotenv, and CORS.
-- **Portfolio priority:** **Featured**
+- **Repository:** [reddit-s-backend](https://github.com/shahsawar92/reddit-s-backend)
+- **Visibility:** Private
+- **Technology indicated by the project history:** Backend services, authentication, Reddit scraping, matching logic, and payment services.
 
 #### What I built
 
-I developed a separated frontend and backend system rather than treating the application as only a UI project. The frontend handles navigation, API communication, forms, validation, and user-facing workflows. The backend provides the server foundation, data modeling, authentication-related dependencies, validation, and API infrastructure.
+I developed the backend foundation for a Reddit monitoring and matching system. The project is organized around collecting Reddit data, processing it through matching logic, supporting authenticated access, and connecting the workflow to payment services.
 
 #### What I worked on
 
-- Split the product into independently organized frontend and backend repositories.
-- Built React screens and navigation with React Router.
-- Connected the frontend to backend services using Axios.
-- Implemented structured forms with Formik and Yup validation.
-- Built an Express server with MongoDB/Mongoose persistence.
-- Added JWT-based authentication dependencies and bcrypt password protection.
-- Added Joi request validation, CORS configuration, environment-variable support, and Vercel deployment configuration.
-- Practiced separating presentation, API, validation, authentication, and persistence concerns.
+- Added core backend modules for authentication.
+- Added Reddit scraping functionality.
+- Implemented a matching engine for processing monitored content.
+- Added payment-service modules.
+- Connected the backend work with a separate frontend repository.
+- Continued fixing and extending backend behavior after the initial architecture was created.
 
 #### Portfolio wording
 
-> I built a full-stack management application as two connected systems: a React frontend and a Node.js/Express backend. I implemented client-side routing, API integration, validated workflows, MongoDB data modeling, secure password handling, JWT-based authentication foundations, request validation, CORS, and deployment configuration.
+> I built the backend foundation for a Reddit monitoring and matching platform. I implemented authentication, Reddit scraping, matching-engine workflows, payment-service integration points, and the connection between the backend and a separate frontend application.
+
+**Why showcase it:** This project gives my portfolio a stronger backend and systems-oriented dimension beyond conventional CRUD dashboards.
 
 ---
 
-### 3. Quiz Game — Interactive Next.js Web Application
+### 3. Agri ERP Platform
 
-- **Repository:** [game-repo](https://github.com/shahsawar92/game-repo)
-- **Live project:** [quiz-game-five-liart.vercel.app](https://quiz-game-five-liart.vercel.app)
-- **Technology:** Next.js 14, React, Tailwind CSS, React Hook Form, Zod, Axios, cookies-next, Swiper, React Slick, Sharp, and SweetAlert2.
-- **Portfolio priority:** **Featured**
-
-#### What I built
-
-I built and deployed an interactive quiz/game experience using the Next.js App Router. The project contains a structured application and component layer, middleware, utility modules, responsive styling, form handling, validation, and interactive feedback.
+- **Repository:** [Section-Soft/Agri_Erp_Backend](https://github.com/Section-Soft/Agri_Erp_Backend)
+- **Visibility:** Private organization repository
+- **Scale indicators:** Large repository and extensive authored contribution history
+- **Project areas visible from my pull requests:** ERP design, dashboards, sidebar/navigation, HR, employees, academics, roles, permissions, and inter-office workflows.
 
 #### What I worked on
 
-- Built an interactive game flow rather than a static landing page.
-- Used Next.js routing and middleware to structure application behavior.
-- Added form handling and schema validation with React Hook Form and Zod.
-- Used cookies for client/session-related state.
-- Added responsive carousel and slider interactions with Swiper and React Slick.
-- Added optimized image processing with Sharp.
-- Implemented user feedback with SweetAlert2.
-- Deployed the project to Vercel.
+- Designed and implemented ERP interface areas and layouts.
+- Built or completed HR-related workflows.
+- Added employee-related functionality.
+- Worked on academic information sections and tables.
+- Implemented dashboard and sidebar experiences.
+- Worked on roles and permissions.
+- Contributed to inter-office workflows.
+- Iterated on product design and application layout across multiple feature branches.
 
 #### Portfolio wording
 
-> I designed and deployed a responsive quiz game with Next.js. I worked on the game flow, reusable components, middleware, form validation, session-related cookies, responsive interactions, optimized assets, and user feedback states to make the experience feel like a complete product rather than a simple demo.
+> I contributed to an enterprise agriculture ERP platform with modules covering dashboards, HR, employees, academic records, inter-office workflows, roles, and permissions. My work included designing application layouts, building business-facing interfaces, implementing access-control-related workflows, and refining the product through iterative feature delivery.
+
+**Why showcase it:** This is valuable professional experience because it demonstrates work on a domain-heavy enterprise system rather than only isolated demo applications.
 
 ---
 
-### 4. Zenviro — Environmental Awareness Web Experience
+### 4. HDD — Distribution and Operations Frontend
 
-- **Repository:** [zenviro](https://github.com/shahsawar92/zenviro)
-- **Live project:** [zenviro.vercel.app](https://zenviro.vercel.app)
-- **Technology:** Next.js 15, React, GSAP, Swiper, Tailwind CSS, Lucide, and responsive modern UI patterns.
-- **Portfolio priority:** **Featured**
-
-#### What I built
-
-I created a modern environmental-themed web experience with Next.js, animated interactions, responsive layouts, and a strong visual identity. The project demonstrates my ability to combine product presentation, motion design, and responsive frontend engineering.
+- **Repository:** [Digitourney/hdd-frontend](https://github.com/Digitourney/hdd-frontend)
+- **Visibility:** Private organization repository
+- **Technology:** TypeScript and component-oriented frontend architecture
+- **Contribution history:** Multiple authored pull requests, feature branches, staging/production work, bug fixes, and component refactors.
 
 #### What I worked on
 
-- Built the application with the Next.js App Router.
-- Created animated interface interactions with GSAP.
-- Used Swiper for touch-friendly content presentation.
-- Built responsive layouts with Tailwind CSS.
-- Added iconography through Lucide and React Icons.
-- Configured the project for production deployment and static serving.
+- Added customer-flow components.
+- Built and organized domain components.
+- Refactored the component directory structure to eliminate duplicate `Domain` and `domain` paths.
+- Standardized weekday selection using a dedicated, reusable `WeekdaySelector` component.
+- Replaced inappropriate generic tab-navigation usage with purpose-built selection behavior.
+- Added type-safe multiple weekday selection using `Weekday[]`.
+- Improved icon centralization and styling consistency.
+- Fixed supplier details and out-of-stock behavior.
+- Added entire-row click interactions.
+- Worked on units, order PDFs, images, campaign products, and chat issues.
+- Prepared and merged staging and production changes.
+- Fixed assets and addressed ongoing UI issues through multiple delivery cycles.
+
+#### Internal engineering decision I made
+
+In a pull request discussion, I identified that one screen used a generic `TabNavigation` component while another used a dedicated weekday selector. I recommended standardizing on `WeekdaySelector` because it was purpose-built, supported multiple selection, provided better type safety, and created a consistent user experience. I then applied the refactor and consolidated the component directories.
 
 #### Portfolio wording
 
-> I built Zenviro as an immersive environmental web experience that combines responsive Next.js development with motion and interaction design. I implemented animated sections, mobile-friendly content sliders, reusable visual components, and a cohesive interface focused on communicating an environmental message through product-quality presentation.
+> I contributed to a TypeScript operations and distribution frontend used for customer, supplier, order, inventory, and delivery workflows. I built reusable domain components, standardized weekday-selection behavior, improved component organization, fixed supplier and out-of-stock flows, added order PDF and image-related functionality, resolved chat issues, and supported staging and production releases.
+
+**Why showcase it:** This is strong evidence of professional frontend engineering, refactoring, domain modeling, production support, and collaboration with other developers.
 
 ---
 
-### 5. E-commerce Slider / Product Showcase
+### 5. Gulf Tyres — Business Web Application
 
-- **Repository:** [ecom-slider](https://github.com/shahsawar92/ecom-slider)
-- **Technology:** JavaScript, React, responsive UI, and carousel-focused interaction design.
-- **Portfolio priority:** **Supporting project**
-
-#### What I built
-
-I built an e-commerce-oriented product showcase focused on presenting products through interactive sliders and responsive visual layouts.
-
-#### Portfolio wording
-
-> I developed an e-commerce product showcase centered around responsive carousel interactions and visual product presentation. This project strengthened my experience with reusable UI patterns, responsive layouts, and interaction design for commerce interfaces.
-
----
-
-### 6. NewsApp — Searchable News Discovery SPA
-
-- **Repository:** [newsApp](https://github.com/shahsawar92/newsApp)
-- **Technology:** React 18, React Router, React Bootstrap, Bootstrap, and a news API integration.
-- **Portfolio priority:** **Supporting project**
-
-#### What I built
-
-I built a single-page news application that consumes a headlines API and allows users to browse, search, switch between countries, and open individual news details.
+- **Repository:** [gulf_tyres](https://github.com/shahsawar92/gulf_tyres)
+- **Visibility:** Private
+- **Primary language:** Blade
+- **Activity:** Substantial authored commit history from December 2025 through October 2026.
 
 #### What I worked on
 
-- Integrated a third-party news API.
-- Built country-based news browsing.
-- Added search/filter behavior for headlines.
-- Added detail-page navigation with React Router.
-- Designed the interface with Bootstrap and React Bootstrap.
+The repository is a private Blade-based business application with sustained implementation activity. Because the available repository summary does not expose enough domain-level file detail, the portfolio description should remain focused on the verified facts: private business software, Blade/PHP-oriented implementation, and sustained feature development.
 
 #### Portfolio wording
 
-> I built a React news discovery application that consumes a live news API and gives users a focused way to browse top headlines, switch markets, search stories, and open article details. I implemented the API-driven data flow, routing, filtering experience, and responsive interface.
+> I worked on a private Blade-based business application for Gulf Tyres, contributing across an extended development cycle. My work included iterative feature implementation, UI and workflow changes, maintenance, and continuous refinement of a business-facing web product.
+
+**Why showcase it:** Include this under “Professional Experience” rather than “Open Source Projects,” especially if the product or client details are confidential.
 
 ---
 
-### 7. Expense Tracker
+### 6. Paybox Live and BNT Product Ecosystem
 
-- **Repository:** [ExpenseTrackerApp](https://github.com/shahsawar92/ExpenseTrackerApp)
-- **Technology:** React, Context API, useReducer, useState, and CSS.
-- **Portfolio priority:** **Supporting project / earlier milestone**
-
-#### What I built
-
-I built a personal finance application that tracks expenses and calculates the relationship between income and spending.
+- **Repositories:** [Paybox Live v1](https://github.com/Pay-box-UK/paybox-live-v1), `paybox-new-spa`, `web-backend`, `bnt-new`, `bnt-v2`, `bnt-ios`, `bnt-android`, `android-customer`, `android-vendor`, `iOS-Vendor`, and related Paybox repositories.
+- **Visibility:** Private organization repositories
+- **Verified project context:** Paybox Live and BNT web, backend, Android, and iOS applications.
 
 #### What I worked on
 
-- Managed shared application state with Context API.
-- Used useReducer for predictable expense state transitions.
-- Built reusable React components.
-- Created the interface with CSS without relying on a large UI framework.
-- Deployed the application as a static website.
+I contributed to a multi-application product ecosystem spanning web, backend, Android, and iOS repositories. This work represents cross-platform product development rather than a single isolated web repository.
 
 #### Portfolio wording
 
-> I built an expense tracker that records spending, calculates totals, and shows remaining income. I designed the component structure and implemented shared state with React Context and useReducer, giving me practical experience with predictable state management in a real user workflow.
+> I contributed to a cross-platform payment and customer-service product ecosystem spanning web applications, backend services, Android applications, and iOS applications. I worked within a multi-repository environment and supported product development across web and mobile surfaces.
+
+**Why showcase it:** This is valuable professional experience, but client/product details should be presented only with permission and without exposing confidential implementation details.
 
 ---
 
-### 8. Dviz Complete Website
+### 7. Ettezen Backend
 
-- **Repository:** [Dviz-Complete-website](https://github.com/shahsawar92/Dviz-Complete-website)
-- **Technology:** React, React Router, Formik, Yup, Tailwind CSS, and responsive tables.
-- **Portfolio priority:** **Supporting project**
-
-#### What I built
-
-I created a multi-page React website with routing, forms, validation, Tailwind-based styling, and responsive data presentation.
+- **Repository:** [Section-Soft/ettezenn_backend](https://github.com/Section-Soft/ettezenn_backend)
+- **Visibility:** Private organization repository
+- **Primary language:** PHP
+- **Activity:** Extensive authored contribution history, including work through October 8, 2026.
 
 #### Portfolio wording
 
-> I developed a complete React website with multi-page navigation, validated forms, responsive layouts, and table-based data presentation. I used React Router for application navigation, Formik and Yup for form workflows, and Tailwind CSS to build a consistent responsive interface.
+> I contributed to the Ettezen backend, a PHP-based private application. My work involved sustained backend development, iterative feature delivery, and maintenance within a collaborative organization repository.
+
+Use a more specific domain description only after reviewing the repository’s internal documentation or receiving approval to disclose the product details.
 
 ---
 
-### 9. Portfolio and Agency Website Work
+### 8. Makan Mate and Related Admin Systems
 
-- **Repositories:** [portfolio](https://github.com/shahsawar92/portfolio), [agencywebsite](https://github.com/shahsawar92/agencywebsite), and [proctorwebsite](https://github.com/shahsawar92/proctorwebsite)
-- **Portfolio priority:** **Supporting work; select the strongest visual result only**
-
-#### What I built
-
-These projects demonstrate my experience creating public-facing websites for personal branding, agencies, and service-oriented businesses.
+- **Repositories:** `makan-mate`, `Makan-mate`, `makan_mate_admin_25`, and related organization repositories.
+- **Visibility:** Private
+- **Likely product areas:** Customer-facing food or meal workflows and administrative operations, based on repository naming.
 
 #### Portfolio wording
 
-> I designed and developed several responsive public-facing websites, translating brand and service requirements into structured React interfaces. Across these projects I worked on layout systems, reusable sections, responsive behavior, navigation, and presentation-focused user experiences.
+> I worked on a multi-repository food-service product ecosystem, contributing to customer-facing and administrative applications. My work covered product interfaces and internal management workflows across separate application repositories.
+
+This should be included only after confirming the exact features and your permission to describe the product publicly.
 
 ---
+
+## Strong Public Projects
+
+### Balansize
+
+I built a TypeScript-powered Next.js management platform with Redux Toolkit, validated forms, Chart.js visualizations, file uploads, rich text editing, reusable components, testing setup, linting, formatting, and deployment configuration.
+
+- [Repository](https://github.com/shahsawar92/balansize)
+- [Live project](https://balansize.vercel.app)
+
+### Quiz Game
+
+I designed and deployed a responsive Next.js quiz game with middleware, form validation, cookies, reusable components, carousel interactions, optimized images, and user feedback states.
+
+- [Repository](https://github.com/shahsawar92/game-repo)
+- [Live project](https://quiz-game-five-liart.vercel.app)
+
+### Zenviro
+
+I built an environmental web experience with Next.js, GSAP animations, Swiper interactions, Tailwind CSS, responsive layouts, and a strong visual identity.
+
+- [Repository](https://github.com/shahsawar92/zenviro)
+- [Live project](https://zenviro.vercel.app)
+
+### Management Application
+
+I developed a separated React frontend and Node.js/Express backend with MongoDB/Mongoose, routing, API integration, validated forms, JWT foundations, bcrypt, Joi, CORS, and environment configuration.
+
+- [Frontend](https://github.com/shahsawar92/management-app-frontend)
+- [Backend](https://github.com/shahsawar92/management-app-backend)
+
+### NewsApp
+
+I built a React news discovery SPA with API integration, country switching, search/filter behavior, article details, routing, and responsive Bootstrap-based presentation.
+
+- [Repository](https://github.com/shahsawar92/newsApp)
+
+### Dviz Complete Website
+
+I developed a multi-page React website with routing, Formik/Yup validation, Tailwind CSS, responsive tables, and reusable presentation components.
+
+- [Repository](https://github.com/shahsawar92/Dviz-Complete-website)
+
+### Expense Tracker
+
+I created a React expense tracker using Context API, useReducer, useState, reusable components, CSS, and static deployment.
+
+- [Repository](https://github.com/shahsawar92/ExpenseTrackerApp)
+
+## Other Repositories Where I Contributed
+
+The account activity also shows authored pull requests or commits in repositories owned by teammates, organizations, or clients, including:
+
+- `Section-Soft/Agri_Erp_Backend`
+- `Section-Soft/ettezenn_backend`
+- `Digitourney/hdd-frontend`
+- `Pay-box-UK/paybox-live-v1` and the wider Paybox/BNT ecosystem
+- `muhammadwaqasathar/srto-fullstack`
+- `farooqsaeed/Poker-Frontend`
+- `ankitshubham97/po-app-fe`
+- `hilalkhaan/ETBANKWEBSITE`
+- `hussamk98/mlu`
+- `shahsawar92/yacht`
+
+These should be presented as **professional contributions**, **team projects**, or **client work**, not as personal solo projects.
+
+## Portfolio Categories
+
+### Featured personal projects
+
+1. VersaClip
+2. Reddit Monitoring and Matching Backend
+3. Balansize
+4. Management Application
+5. Quiz Game
+6. Zenviro
+
+### Professional or team experience
+
+1. HDD distribution/operations frontend
+2. Agri ERP platform
+3. Gulf Tyres business application
+4. Ettezen backend
+5. Paybox/BNT cross-platform ecosystem
+6. Makan Mate and administrative systems
+
+### Supporting projects
+
+1. NewsApp
+2. Dviz Complete Website
+3. Expense Tracker
+4. E-commerce Slider
+5. Selected portfolio or agency website work
+
+## Recommended Portfolio Wording
+
+> I am a full-stack product engineer who builds and improves web applications across frontend, backend, and cross-platform environments. My experience includes React and Next.js products, TypeScript component systems, API-driven workflows, dashboards, ERP modules, video-processing interfaces, authentication, data matching, business applications, PWA support, and multi-repository team development. I focus on turning product requirements into maintainable, responsive, and production-oriented software.
+
+## Skills Demonstrated Across the Work
+
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Vite, React Router, Tailwind CSS, Bootstrap, responsive design, component systems, PWA support, Workbox, charts, forms, validation, animation, and sliders.
+- **Backend:** Node.js, Express, PHP, Laravel-oriented work, MongoDB, Mongoose, JWT, bcrypt, Joi, REST APIs, scraping, matching engines, payment-service integration, and CORS.
+- **Product domains:** ERP, HR, permissions, dashboards, distribution, suppliers, inventory, orders, food service, video processing, Reddit monitoring, payments, news, finance, and interactive games.
+- **Engineering practices:** Frontend/backend separation, reusable domain components, type-safe workflows, refactoring, API integration, staging and production releases, asset management, PWA caching, debugging, and collaboration through pull requests.
 
 ## Projects to Keep Out of the Main Portfolio
 
-These repositories are useful as evidence of learning, experimentation, or specific technical practice, but they should not occupy primary portfolio space:
+Do not make basic learning exercises, clones, assignments, starter templates, or forks the center of the portfolio:
 
 - `test`, `mytest`, `my_react_app`, `react_app`, `react_app_project`
 - `typescript-todo-app`, `react-quiz-app`, `routing`, `tryonhooks`
 - `animation4a`, `animation4b`, `project-4b`
 - `deeplearning_assignment`, `deeplearning_assignment1`
-- `covid19_tracker`, `scratchCard`, `massageTherapy`
-- `netflix-clone`
-- `dashboard`, `Ca-Admin` when presented only as starter-template work
-- `portfolio-site-3d`, because the repository is a fork of an existing portfolio project and should not be presented as wholly original work unless I clearly describe my own modifications
-- `dabbawala-nextjs`, because its package metadata identifies it as a ThemeSelection Materio admin-template project; feature it only if I made substantial original changes beyond the template
-- `streamsit`, because the available README describes it as a Vite starter and does not provide enough evidence of a finished product
+- `covid19_tracker`, `scratchCard`, `massageTherapy`, `netflix-clone`
+- `portfolio-site-3d`, unless clearly labeled as a fork with your own modifications
+- `dabbawala-nextjs`, unless substantial original features were added beyond the Materio template
+- `streamsit`, unless it contains more original work than the starter README indicates
 
-## Suggested Portfolio Navigation
+## Confidentiality and Accuracy Rules
 
-### Featured
+- Private and client repositories should not be linked publicly unless they are intentionally made public.
+- For confidential work, use a project label such as “Enterprise ERP Platform” instead of exposing the repository name.
+- Do not publish source code, screenshots, customer names, credentials, URLs, internal architecture, or business metrics without authorization.
+- Describe team contributions as contributions; do not claim sole ownership of shared products.
+- Do not claim user counts, revenue, performance improvements, or production usage unless independently verified.
+- Repository names and commit titles can reveal direction, but detailed internal implementation claims should be confirmed from source files and project documentation before publication.
 
-1. Balansize
-2. Management Application
-3. Quiz Game
-4. Zenviro
+## Analysis Coverage Note
 
-### More Work
-
-5. NewsApp
-6. Dviz Complete Website
-7. Expense Tracker
-8. E-commerce Slider
-
-### Skills Section
-
-- **Frontend:** React, Next.js, TypeScript, JavaScript, React Router, Tailwind CSS, Bootstrap, responsive design, charts, forms, validation, animation, sliders.
-- **Backend:** Node.js, Express, MongoDB, Mongoose, JWT, bcrypt, Joi, REST APIs, CORS.
-- **State and data:** Redux Toolkit, Context API, useReducer, React Hook Form, Axios, Chart.js.
-- **Engineering practices:** Component architecture, frontend/backend separation, environment configuration, deployment, linting, formatting, testing setup, and reusable UI systems.
-
-## Short Personal Brand Summary
-
-> I am a full-stack JavaScript engineer who builds polished, data-driven web applications from interface to API. My work spans modern Next.js products, React dashboards, interactive experiences, API integrations, validated business workflows, and Node.js backends. I focus on turning product requirements into responsive, maintainable, and user-friendly applications.
-
-## Important Accuracy Notes
-
-- The public repository listing currently exposes fewer repositories than the 60+ mentioned in the request, so this analysis is based on the repositories accessible through the GitHub account listing and the profile repository.
-- Several repositories have generic or starter README files, so project descriptions above are intentionally conservative and based on repository names, metadata, package dependencies, file structure, live links, and available README content.
-- Do not claim metrics such as user counts, revenue, performance improvements, or production usage unless I can verify them independently.
-- For projects based on templates or forks, describe the original work honestly: emphasize the features, customizations, architecture, and integrations I personally implemented.
+The GitHub account exposes more than the original public-repository listing when private and collaborator access are included. The accessible repository list contains additional private personal, organization, client, and teammate repositories. GitHub returned 100 repositories on the first accessible-repository page, with additional results available on the next page. The strongest verified additions from commit and pull-request history are VersaClip, Reddit backend, Gulf Tyres, Agri ERP, HDD frontend, Ettezen backend, Paybox/BNT, and multiple teammate-owned projects.
